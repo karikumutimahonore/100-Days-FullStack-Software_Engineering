@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: #0000ff;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+p:last-child {
+    color: #0000ff;
+    font-weight: bold;
+}
+
+a {
+    background-color: black;
+    color: #f0f0f0;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 30px;
+}
